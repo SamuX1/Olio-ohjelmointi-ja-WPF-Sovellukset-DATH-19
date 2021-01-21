@@ -1,0 +1,13 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\bin\Debug\netcoreapp3.1\Testi.exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\bin\Debug\netcoreapp3.1\Testi.deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\bin\Debug\netcoreapp3.1\Testi.runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\bin\Debug\netcoreapp3.1\Testi.runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\bin\Debug\netcoreapp3.1\Testi.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\bin\Debug\netcoreapp3.1\Testi.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\obj\Debug\netcoreapp3.1\Testi.csprojAssemblyReference.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\obj\Debug\netcoreapp3.1\Testi.AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\obj\Debug\netcoreapp3.1\Testi.AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\obj\Debug\netcoreapp3.1\Testi.csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\obj\Debug\netcoreapp3.1\Testi.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\obj\Debug\netcoreapp3.1\Testi.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Testi\obj\Debug\netcoreapp3.1\Testi.genruntimeconfig.cache

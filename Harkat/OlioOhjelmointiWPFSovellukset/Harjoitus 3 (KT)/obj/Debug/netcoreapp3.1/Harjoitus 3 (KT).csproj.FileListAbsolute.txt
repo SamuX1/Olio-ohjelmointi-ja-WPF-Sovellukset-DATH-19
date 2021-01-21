@@ -1,0 +1,13 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).csprojAssemblyReference.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).genruntimeconfig.cache
