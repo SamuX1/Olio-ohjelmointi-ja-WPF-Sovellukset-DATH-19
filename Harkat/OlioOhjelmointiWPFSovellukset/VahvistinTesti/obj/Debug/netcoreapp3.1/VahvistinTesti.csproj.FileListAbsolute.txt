@@ -1,0 +1,13 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.csprojAssemblyReference.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.genruntimeconfig.cache
