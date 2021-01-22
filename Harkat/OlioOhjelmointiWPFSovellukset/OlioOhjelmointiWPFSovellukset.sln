@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VahvistinTesti", "Vahvistin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus6", "Harjoitus6\Harjoitus6.csproj", "{A45E4FF2-A205-4B42-9795-7715B3F9945B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus7", "Harjoitus7\Harjoitus7.csproj", "{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A45E4FF2-A205-4B42-9795-7715B3F9945B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A45E4FF2-A205-4B42-9795-7715B3F9945B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A45E4FF2-A205-4B42-9795-7715B3F9945B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
