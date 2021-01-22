@@ -6,33 +6,35 @@ namespace PerintäTesti
     {
         static void Main(string[] args)
         {
-            Henkilö henkilö = new Henkilö();
+            // perintä testin ensimmäinen osio
+            Henkilö henkilö = new Henkilö(); // Luodaan Henkilö "Matti"
             henkilö.Nimi = "Matti";
 
-            henkilö.Puhu();
+            henkilö.Puhu();  // Kutsutaan Henkilö -luokan metodia Puhu()
 
-            Opiskelija opiskelija = new Opiskelija();
+            Opiskelija opiskelija = new Opiskelija();  // Luodaan Opiskelija "Pekka", joka on Henkilö-luokan aliluokka
             opiskelija.Nimi = "Pekka";
 
-            opiskelija.Puhu();
+            opiskelija.Puhu(); // Kutsutaan Opiskelija -aliluokan metodia Puhu()
 
-            Eläin.KuinkaMonta();
+            // perintä testin toinen osio
+            Eläin.KuinkaMonta();  // Kutsutaan staattista metodia "KuinkaMonta" Eläin -luokasta. --> Eläimiä olemassa 0
 
-            Koira koira1 = new Koira();
-            koira1.Ääntele();
+            Koira koira1 = new Koira(); // Luodaan uusi Koira olio, joka on Eläin -luokan aliluokka
+            koira1.Ääntele(); // kutsutaan Koira -luokan "Ääntele" metodia --> "Woof"
 
-            Kissa kissa1 = new Kissa();
-            kissa1.Ääntele();
+            Kissa kissa1 = new Kissa(); // Luodaan uusi Kissa olio, joka on Eläin -luokan aliluokka
+            kissa1.Ääntele(); // kutsutaan Kissa -luokan "Ääntele" metodia --> "Meow"
 
-            Eläin.KuinkaMonta();
+            Eläin.KuinkaMonta(); // Kutsutaan staattista metodia "KuinkaMonta" Eläin -luokasta. --> Eläimiä olemassa 2
 
-            Koira koira2 = new Koira();
-            Koira koira3 = new Koira();
-            Kissa kissa2 = new Kissa();
+            Koira koira2 = new Koira(); // Luodaan uusi Koira olio
+            Koira koira3 = new Koira(); // Luodaan uusi Koira olio
+            Kissa kissa2 = new Kissa(); // Luodaan uusi Koira olio
 
-            Koira.KuinkaMonta();
-            Kissa.KuinkaMonta();
-            Eläin.KuinkaMonta();
+            Koira.KuinkaMonta(); // Kutsutaan staattista metodia "KuinkaMonta" Koira -luokasta. --> Koiria olemassa 3
+            Kissa.KuinkaMonta(); // Kutsutaan staattista metodia "KuinkaMonta" Kissa -luokasta. --> Kissoja olemassa 2
+            Eläin.KuinkaMonta(); // Kutsutaan staattista metodia "KuinkaMonta" Eläin -luokasta. --> Eläimiä olemassa 5
         }
     }
 }

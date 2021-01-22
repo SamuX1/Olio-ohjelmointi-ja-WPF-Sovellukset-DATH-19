@@ -6,19 +6,20 @@ namespace HenkilöStatic
     {
         static void Main(string[] args)
         {
-            Henkilö.KuinkaMontaHenkilöä();
+            Henkilö.KuinkaMontaHenkilöä(); // Haetaan Henkilö luokan staattista metodia, joka tulostaa henkilö -olioiden määrän --> 0
 
-            Henkilö henkilö1 = new Henkilö();
+            Henkilö henkilö1 = new Henkilö(); // luodaan uusi Henkilö -olio
 
-            Henkilö.KuinkaMontaHenkilöä();
+            Henkilö.KuinkaMontaHenkilöä(); // Haetaan Henkilö luokan staattista metodia, joka tulostaa henkilö -olioiden määrän --> 1
 
-            Henkilö henkilö2 = new Henkilö();
+            // Luodaan useita henkilö olioita
+            Henkilö henkilö2 = new Henkilö(); 
             Henkilö henkilö3 = new Henkilö();
             Henkilö henkilö4 = new Henkilö();
             Henkilö henkilö5 = new Henkilö();
             Henkilö henkilö6 = new Henkilö();
 
-            Henkilö.KuinkaMontaHenkilöä();
+            Henkilö.KuinkaMontaHenkilöä(); // Haetaan Henkilö luokan staattista metodia, joka tulostaa henkilö -olioiden määrän --> 6
         }
     }
 }
