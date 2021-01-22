@@ -1,0 +1,12 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.genruntimeconfig.cache
