@@ -1,0 +1,13 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\bin\Debug\netcoreapp3.1\PerintäTesti.exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\bin\Debug\netcoreapp3.1\PerintäTesti.deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\bin\Debug\netcoreapp3.1\PerintäTesti.runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\bin\Debug\netcoreapp3.1\PerintäTesti.runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\bin\Debug\netcoreapp3.1\PerintäTesti.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\bin\Debug\netcoreapp3.1\PerintäTesti.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\obj\Debug\netcoreapp3.1\PerintäTesti.csprojAssemblyReference.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\obj\Debug\netcoreapp3.1\PerintäTesti.AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\obj\Debug\netcoreapp3.1\PerintäTesti.AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\obj\Debug\netcoreapp3.1\PerintäTesti.csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\obj\Debug\netcoreapp3.1\PerintäTesti.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\obj\Debug\netcoreapp3.1\PerintäTesti.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PerintäTesti\obj\Debug\netcoreapp3.1\PerintäTesti.genruntimeconfig.cache
