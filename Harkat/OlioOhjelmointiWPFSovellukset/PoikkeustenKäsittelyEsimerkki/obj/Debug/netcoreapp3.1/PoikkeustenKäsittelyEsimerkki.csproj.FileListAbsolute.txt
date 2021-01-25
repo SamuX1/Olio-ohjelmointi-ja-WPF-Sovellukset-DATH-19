@@ -1,0 +1,13 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\bin\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\bin\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\bin\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\bin\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\bin\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\bin\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\obj\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\obj\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\obj\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\obj\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\obj\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\obj\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.genruntimeconfig.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\PoikkeustenKäsittelyEsimerkki\obj\Debug\netcoreapp3.1\PoikkeustenKäsittelyEsimerkki.csprojAssemblyReference.cache
