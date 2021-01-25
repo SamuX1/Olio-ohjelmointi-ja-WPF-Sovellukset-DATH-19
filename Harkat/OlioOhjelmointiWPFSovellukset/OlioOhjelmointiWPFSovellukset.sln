@@ -11,21 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testi", "Testi\Testi.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 3 (KT)", "Harjoitus 3 (KT)\Harjoitus 3 (KT).csproj", "{3E86FF48-BD9B-4BA3-8429-7847A2685AB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticTest", "StaticTest\StaticTest.csproj", "{DF27593D-740A-43ED-BD04-52698203C5E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticTest", "StaticTest\StaticTest.csproj", "{DF27593D-740A-43ED-BD04-52698203C5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HenkilöStatic", "HenkilöStatic\HenkilöStatic.csproj", "{10E92BD1-9FA7-4D88-B304-93A1C3B0C302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HenkilöStatic", "HenkilöStatic\HenkilöStatic.csproj", "{10E92BD1-9FA7-4D88-B304-93A1C3B0C302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 5", "Harjoitus 5\Harjoitus 5.csproj", "{F75CD6C7-E598-4382-8957-86EBA868E21F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 5", "Harjoitus 5\Harjoitus 5.csproj", "{F75CD6C7-E598-4382-8957-86EBA868E21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerintäTesti", "PerintäTesti\PerintäTesti.csproj", "{F227567A-7E9F-48BF-8BA6-E79091994AAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerintäTesti", "PerintäTesti\PerintäTesti.csproj", "{F227567A-7E9F-48BF-8BA6-E79091994AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractTest", "AbstractTest\AbstractTest.csproj", "{AE6F40C8-7241-47EA-8AF4-CFECBE329B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractTest", "AbstractTest\AbstractTest.csproj", "{AE6F40C8-7241-47EA-8AF4-CFECBE329B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VahvistinTesti", "VahvistinTesti\VahvistinTesti.csproj", "{5A86F248-A9E2-472B-87D5-2484470F0DF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VahvistinTesti", "VahvistinTesti\VahvistinTesti.csproj", "{5A86F248-A9E2-472B-87D5-2484470F0DF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus6", "Harjoitus6\Harjoitus6.csproj", "{A45E4FF2-A205-4B42-9795-7715B3F9945B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus6", "Harjoitus6\Harjoitus6.csproj", "{A45E4FF2-A205-4B42-9795-7715B3F9945B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus7", "Harjoitus7\Harjoitus7.csproj", "{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus7", "Harjoitus7\Harjoitus7.csproj", "{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 10", "Harjoitus 10\Harjoitus 10.csproj", "{B347BB63-C243-424A-A9D3-6F75DEAEF0E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1EB1743-DAFE-4E79-ABB3-2DF03205CAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B347BB63-C243-424A-A9D3-6F75DEAEF0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B347BB63-C243-424A-A9D3-6F75DEAEF0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B347BB63-C243-424A-A9D3-6F75DEAEF0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B347BB63-C243-424A-A9D3-6F75DEAEF0E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
