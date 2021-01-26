@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus7", "Harjoitus7\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 10", "Harjoitus 10\Harjoitus 10.csproj", "{B347BB63-C243-424A-A9D3-6F75DEAEF0E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoikkeustenKäsittelyEsimerkki", "PoikkeustenKäsittelyEsimerkki\PoikkeustenKäsittelyEsimerkki.csproj", "{1297421B-52C7-45C5-AB26-57AAE03E7F28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoikkeustenKäsittelyEsimerkki", "PoikkeustenKäsittelyEsimerkki\PoikkeustenKäsittelyEsimerkki.csproj", "{1297421B-52C7-45C5-AB26-57AAE03E7F28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 11", "Harjoitus 11\Harjoitus 11.csproj", "{C6C7ECEE-018E-455F-B73D-58341B1EA6D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 11", "Harjoitus 11\Harjoitus 11.csproj", "{C6C7ECEE-018E-455F-B73D-58341B1EA6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 14", "Harjoitus 14\Harjoitus 14.csproj", "{F510BD68-35E8-42FA-A885-EB150C3FE92C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{C6C7ECEE-018E-455F-B73D-58341B1EA6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6C7ECEE-018E-455F-B73D-58341B1EA6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6C7ECEE-018E-455F-B73D-58341B1EA6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F510BD68-35E8-42FA-A885-EB150C3FE92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F510BD68-35E8-42FA-A885-EB150C3FE92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F510BD68-35E8-42FA-A885-EB150C3FE92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F510BD68-35E8-42FA-A885-EB150C3FE92C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

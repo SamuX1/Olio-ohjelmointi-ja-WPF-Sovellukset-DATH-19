@@ -1,0 +1,13 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\bin\Debug\netcoreapp3.1\Harjoitus 14.exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\bin\Debug\netcoreapp3.1\Harjoitus 14.deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\bin\Debug\netcoreapp3.1\Harjoitus 14.runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\bin\Debug\netcoreapp3.1\Harjoitus 14.runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\bin\Debug\netcoreapp3.1\Harjoitus 14.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\bin\Debug\netcoreapp3.1\Harjoitus 14.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\obj\Debug\netcoreapp3.1\Harjoitus 14.csprojAssemblyReference.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\obj\Debug\netcoreapp3.1\Harjoitus 14.AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\obj\Debug\netcoreapp3.1\Harjoitus 14.AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\obj\Debug\netcoreapp3.1\Harjoitus 14.csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\obj\Debug\netcoreapp3.1\Harjoitus 14.dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\obj\Debug\netcoreapp3.1\Harjoitus 14.pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 14\obj\Debug\netcoreapp3.1\Harjoitus 14.genruntimeconfig.cache
