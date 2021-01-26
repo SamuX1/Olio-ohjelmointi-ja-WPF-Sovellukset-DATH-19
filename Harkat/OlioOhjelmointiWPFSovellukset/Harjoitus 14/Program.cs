@@ -73,6 +73,7 @@ namespace Harjoitus_14
 
         static void PoistaMuistiinpanot(string filePath)
         {
+            // Korvataan tiedosto uudella pohjalla, joka sisältää vain "Muistiinpanot:" rivin
             File.WriteAllText(filePath, "Muistiinpanot: ");
         }
 
