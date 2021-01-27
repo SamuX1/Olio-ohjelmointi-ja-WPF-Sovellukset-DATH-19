@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 11", "Harjoitus 1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 14", "Harjoitus 14\Harjoitus 14.csproj", "{F510BD68-35E8-42FA-A885-EB150C3FE92C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-Testi", "WPF-Testi\WPF-Testi.csproj", "{1E1D850D-B0F2-4154-A502-9071F00CD2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF-Testi", "WPF-Testi\WPF-Testi.csproj", "{1E1D850D-B0F2-4154-A502-9071F00CD2D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 15 (WPF)", "Harjoitus 15 (WPF)\Harjoitus 15 (WPF).csproj", "{419F20B8-CE84-44CB-94EB-AA193BA9C6D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 15 (WPF)", "Harjoitus 15 (WPF)\Harjoitus 15 (WPF).csproj", "{419F20B8-CE84-44CB-94EB-AA193BA9C6D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 16 (WPF)", "Harjoitus 16 (WPF)\Harjoitus 16 (WPF).csproj", "{F97A206A-21F8-4FB5-96EE-15AB532B4F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SivujenLisäysEsimerkki", "SivujenLisäysEsimerkki\SivujenLisäysEsimerkki.csproj", "{38990A54-0A4A-4A63-9610-B674ADF668AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{419F20B8-CE84-44CB-94EB-AA193BA9C6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{419F20B8-CE84-44CB-94EB-AA193BA9C6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{419F20B8-CE84-44CB-94EB-AA193BA9C6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97A206A-21F8-4FB5-96EE-15AB532B4F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97A206A-21F8-4FB5-96EE-15AB532B4F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97A206A-21F8-4FB5-96EE-15AB532B4F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97A206A-21F8-4FB5-96EE-15AB532B4F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38990A54-0A4A-4A63-9610-B674ADF668AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38990A54-0A4A-4A63-9610-B674ADF668AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38990A54-0A4A-4A63-9610-B674ADF668AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38990A54-0A4A-4A63-9610-B674ADF668AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
