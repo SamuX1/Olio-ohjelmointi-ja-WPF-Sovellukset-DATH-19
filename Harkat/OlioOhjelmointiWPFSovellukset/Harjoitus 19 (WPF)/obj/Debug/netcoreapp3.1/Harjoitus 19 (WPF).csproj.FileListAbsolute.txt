@@ -1,0 +1,29 @@
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\bin\Debug\netcoreapp3.1\Harjoitus 19 (WPF).exe
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\bin\Debug\netcoreapp3.1\Harjoitus 19 (WPF).deps.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\bin\Debug\netcoreapp3.1\Harjoitus 19 (WPF).runtimeconfig.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\bin\Debug\netcoreapp3.1\Harjoitus 19 (WPF).runtimeconfig.dev.json
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\bin\Debug\netcoreapp3.1\Harjoitus 19 (WPF).dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\bin\Debug\netcoreapp3.1\Harjoitus 19 (WPF).pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).csprojAssemblyReference.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros1.g.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF)_MarkupCompile.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF)_MarkupCompile.lref
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros1.baml
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).g.resources
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).AssemblyInfoInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).AssemblyInfo.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).csproj.CoreCompileInputs.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).dll
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).pdb
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Harjoitus 19 (WPF).genruntimeconfig.cache
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros2.g.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros3.g.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros4.g.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros5.g.cs
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros2.baml
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros3.baml
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros4.baml
+C:\Users\Agamashi\Documents\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioOhjelmointiWPFSovellukset\Harjoitus 19 (WPF)\obj\Debug\netcoreapp3.1\Kerros5.baml

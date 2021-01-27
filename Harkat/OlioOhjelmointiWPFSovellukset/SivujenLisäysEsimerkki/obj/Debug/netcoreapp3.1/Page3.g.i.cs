@@ -61,7 +61,7 @@ namespace SivujenLisäysEsimerkki {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SivujenLisäysEsimerkki;component/page3.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SivujenLisäysEsimerkki;V1.0.0.0;component/page3.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Page3.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
