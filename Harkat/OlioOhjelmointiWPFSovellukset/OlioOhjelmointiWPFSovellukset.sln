@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SivujenLisäysEsimerkki", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 19 (WPF)", "Harjoitus 19 (WPF)\Harjoitus 19 (WPF).csproj", "{7FF8A369-5B29-4CAD-93FF-DFB04482C288}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoituts 20 (WPF)", "Harjoituts 20 (WPF)\Harjoituts 20 (WPF).csproj", "{416E9A76-84E2-4BD6-8F91-E289E026B986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{7FF8A369-5B29-4CAD-93FF-DFB04482C288}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF8A369-5B29-4CAD-93FF-DFB04482C288}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF8A369-5B29-4CAD-93FF-DFB04482C288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416E9A76-84E2-4BD6-8F91-E289E026B986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416E9A76-84E2-4BD6-8F91-E289E026B986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416E9A76-84E2-4BD6-8F91-E289E026B986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416E9A76-84E2-4BD6-8F91-E289E026B986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

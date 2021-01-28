@@ -53,7 +53,7 @@ namespace Harjoitus_19__WPF_ {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Harjoitus 19 (WPF);component/kerros2.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Harjoitus 19 (WPF);V1.0.0.0;component/kerros2.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Kerros2.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
