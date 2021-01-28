@@ -25,6 +25,7 @@ namespace Harjoituts_20__WPF_
         {
             InitializeComponent();
 
+            LoadFromFile();
         }
 
         private void OpiskelijaIDValidation(object sender, TextCompositionEventArgs e)
@@ -105,6 +106,15 @@ namespace Harjoituts_20__WPF_
 
         private void btnLoadFromFile_Click(object sender, RoutedEventArgs e)
         {
+            LoadFromFile();
+        }
+        private void btnSaveToFile_Click(object sender, RoutedEventArgs e)
+        {
+            SaveToFile();
+        }
+
+        private void LoadFromFile()
+        {
             string loadSuccessfulMessage = KokoelmaManageri.LoadFromFile();
 
             if (loadSuccessfulMessage == "")
@@ -118,7 +128,7 @@ namespace Harjoituts_20__WPF_
             }
         }
 
-        private void btnSaveToFile_Click(object sender, RoutedEventArgs e)
+        private void SaveToFile()
         {
             string saveSuccessfulMessage = KokoelmaManageri.SaveToFile();
 

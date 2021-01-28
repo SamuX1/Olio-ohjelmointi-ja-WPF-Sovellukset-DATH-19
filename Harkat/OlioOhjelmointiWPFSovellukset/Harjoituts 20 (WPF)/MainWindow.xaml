@@ -35,6 +35,7 @@
                 <DataGridCheckBoxColumn Header="Poista" Binding="{Binding IsSelected}" Width="50*"/>
             </DataGrid.Columns>
         </DataGrid>
+        
         <TextBlock x:Name="activityMessage" HorizontalAlignment="Left" Margin="10,8,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="656" Height="79" RenderTransformOrigin="0.5,0.5">
             <TextBlock.RenderTransform>
                 <TransformGroup>
