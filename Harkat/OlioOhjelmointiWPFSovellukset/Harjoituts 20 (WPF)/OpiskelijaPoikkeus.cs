@@ -8,11 +8,9 @@ namespace Harjoituts_20__WPF_
     {
         public OpiskelijaPoikkeus(string message) : base(message)
         {
-            Console.WriteLine();
             Console.WriteLine("-----ERROR-----");
             Console.WriteLine("Error: " + message);
             Console.WriteLine("-----ERROR-----");
-            Console.WriteLine();
         }
     }
 }

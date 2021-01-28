@@ -49,11 +49,12 @@ namespace Harjoituts_20__WPF_
                 if (KokoelmaManageri.TarkistaID(opiskelijaID))
                 {
                     KokoelmaManageri.LisääOpiskelija(etunimi, sukunimi, opiskelijaID);
+                    SetActivityMessage("Uusi opiskelija lisätty kokoelmaan: " + KokoelmaManageri.Opiskelijat[opiskelijaID].HaeData());
                 }
             }
             catch (Exception ex)
             {
-                Console.Write(ex.Message);
+                SetActivityMessage(ex.Message);
             }
             finally
             {
@@ -73,6 +74,62 @@ namespace Harjoituts_20__WPF_
         private void RefreshGrid()
         {
             OpiskelijatGrid.ItemsSource = KokoelmaManageri.PalautaOpiskelijat();
+        }
+
+        private void btnDeleteSelected_Click(object sender, RoutedEventArgs e)
+        {
+
+            string poistetutOpiskelijat = "";
+
+            foreach (Opiskelija opiskelija in OpiskelijatGrid.ItemsSource)
+            {
+                if (opiskelija.IsSelected)
+                {
+                    poistetutOpiskelijat += " " + opiskelija.Etunimi + " " + opiskelija.Sukunimi + ", ";
+                    KokoelmaManageri.PoistaOpiskelija(opiskelija);
+                }
+            }
+
+            if (poistetutOpiskelijat.Equals(""))
+                return;
+
+            SetActivityMessage("Opiskelijat" + poistetutOpiskelijat + " poistettu kokoelmasta");
+
+            RefreshGrid();
+        }
+
+        void SetActivityMessage(string message)
+        {
+            activityMessage.Text = message;
+        }
+
+        private void btnLoadFromFile_Click(object sender, RoutedEventArgs e)
+        {
+            string loadSuccessfulMessage = KokoelmaManageri.LoadFromFile();
+
+            if (loadSuccessfulMessage == "")
+            {
+                SetActivityMessage("Opiskelija Kokoelma on haettu tiedostosta onnistuneesti!");
+                RefreshGrid();
+            }
+            else
+            {
+                SetActivityMessage("Tiedoston lataaminen ei onnistunut, error: " + loadSuccessfulMessage);
+            }
+        }
+
+        private void btnSaveToFile_Click(object sender, RoutedEventArgs e)
+        {
+            string saveSuccessfulMessage = KokoelmaManageri.SaveToFile();
+
+            if (saveSuccessfulMessage == "")
+            {
+                SetActivityMessage("Opiskelija Kokoelma on tallennettu tieodstoon!");
+            }
+            else
+            {
+                SetActivityMessage("Tiedostoon tallentaminen ei onnistunut, error: " + saveSuccessfulMessage);
+            }
         }
     }
 }
