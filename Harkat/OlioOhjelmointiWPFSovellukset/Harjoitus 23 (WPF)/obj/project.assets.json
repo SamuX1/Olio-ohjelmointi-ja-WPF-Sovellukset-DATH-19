@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CircularGauge/1.0.0": {
+        "type": "package",
+        "compile": {
+          "Lib/Net40-Client/CircularGauge.dll": {}
+        },
+        "runtime": {
+          "Lib/Net40-Client/CircularGauge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircularGauge/1.0.0": {
+      "sha512": "sqpgnE4jRgvA6f7p2iW+07yMHrOJpAQRo4v01Y6DcC3Lg38BZl4YdAluSRdJfWUV7lmlp7wTIPWkBG4gcXssYg==",
+      "type": "package",
+      "path": "circulargauge/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CreatePackageFile.bat",
+        "Lib/Net40-Client/CircularGauge.dll",
+        "ReadMe.txt",
+        "circulargauge.1.0.0.nupkg.sha512",
+        "circulargauge.nuspec",
+        "nuget.exe"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CircularGauge >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Agamashi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Agamashi\\Documents\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioOhjelmointiWPFSovellukset\\Harjoitus 23 (WPF)\\Harjoitus 23 (WPF).csproj",
+      "projectName": "Harjoitus 23 (WPF)",
+      "projectPath": "C:\\Users\\Agamashi\\Documents\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioOhjelmointiWPFSovellukset\\Harjoitus 23 (WPF)\\Harjoitus 23 (WPF).csproj",
+      "packagesPath": "C:\\Users\\Agamashi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Agamashi\\Documents\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioOhjelmointiWPFSovellukset\\Harjoitus 23 (WPF)\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Agamashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "CircularGauge": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CircularGauge 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CircularGauge",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

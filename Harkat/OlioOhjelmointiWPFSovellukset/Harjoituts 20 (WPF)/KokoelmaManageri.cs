@@ -31,7 +31,7 @@ namespace Harjoituts_20__WPF_
                 return true;
             }
         }
-
+        
         /// <summary>
         /// Poistetaan opiskelija sanakirjasta annetun indexin avulla.
         /// </summary>

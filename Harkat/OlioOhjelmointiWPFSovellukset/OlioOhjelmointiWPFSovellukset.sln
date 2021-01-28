@@ -43,9 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 16 (WPF)", "Harjo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SivujenLisäysEsimerkki", "SivujenLisäysEsimerkki\SivujenLisäysEsimerkki.csproj", "{38990A54-0A4A-4A63-9610-B674ADF668AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 19 (WPF)", "Harjoitus 19 (WPF)\Harjoitus 19 (WPF).csproj", "{7FF8A369-5B29-4CAD-93FF-DFB04482C288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 19 (WPF)", "Harjoitus 19 (WPF)\Harjoitus 19 (WPF).csproj", "{7FF8A369-5B29-4CAD-93FF-DFB04482C288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoituts 20 (WPF)", "Harjoituts 20 (WPF)\Harjoituts 20 (WPF).csproj", "{416E9A76-84E2-4BD6-8F91-E289E026B986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoituts 20 (WPF)", "Harjoituts 20 (WPF)\Harjoituts 20 (WPF).csproj", "{416E9A76-84E2-4BD6-8F91-E289E026B986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 23 (WPF)", "Harjoitus 23 (WPF)\Harjoitus 23 (WPF).csproj", "{12ECFF1B-B146-42A9-8ADE-68EF03644E52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{416E9A76-84E2-4BD6-8F91-E289E026B986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{416E9A76-84E2-4BD6-8F91-E289E026B986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{416E9A76-84E2-4BD6-8F91-E289E026B986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12ECFF1B-B146-42A9-8ADE-68EF03644E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12ECFF1B-B146-42A9-8ADE-68EF03644E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12ECFF1B-B146-42A9-8ADE-68EF03644E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12ECFF1B-B146-42A9-8ADE-68EF03644E52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
