@@ -1,0 +1,7 @@
+C:\Users\samuel.borzi\source\repos\OlioJaWPFSovellukset\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.exe.config
+C:\Users\samuel.borzi\source\repos\OlioJaWPFSovellukset\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.exe
+C:\Users\samuel.borzi\source\repos\OlioJaWPFSovellukset\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.pdb
+C:\Users\samuel.borzi\source\repos\OlioJaWPFSovellukset\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.csproj.AssemblyReference.cache
+C:\Users\samuel.borzi\source\repos\OlioJaWPFSovellukset\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\samuel.borzi\source\repos\OlioJaWPFSovellukset\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.exe
+C:\Users\samuel.borzi\source\repos\OlioJaWPFSovellukset\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.pdb

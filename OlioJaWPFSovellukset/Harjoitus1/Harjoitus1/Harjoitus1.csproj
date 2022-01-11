@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CECC6258-7B6E-4AC5-88B4-8022D288FDEE}</ProjectGuid>
+    <ProjectGuid>{CAF340C7-58CC-4DAC-8BBB-ACD698729168}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Harjoitus1</RootNamespace>
     <AssemblyName>Harjoitus1</AssemblyName>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ajoneuvo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
